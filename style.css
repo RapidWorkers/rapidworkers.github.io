@@ -1,11 +1,13 @@
 .bg-main{
     background-color: #19A1BC;
     color: white;
-    padding-top: 10%;
+    padding-top: 250px;
+    padding-bottom: 250px;
 }
 
 .bg-second{
     background-color: rgb(223, 37, 37);
     color: white;
-    padding-top: 10%;
+    padding-top: 250px;
+    padding-bottom: 250px;
 }
